@@ -2,6 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import { Route, Link, BrowserRouter as Router } from 'react-router-dom'
 import App from './App'
+//change below components to suit your navigation
 import View1 from './components/view1'
 import View2 from './components/view2'
 
