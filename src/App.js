@@ -1,16 +1,13 @@
-import React, { Component } from 'react';
+import React from 'react'
 import './App.scss';
 
-const italic = {fontStyle: "italic"};
-
-class App extends Component {
+class App extends React.Component {
   render() {
     return (
-      <div className="App">
-          <p>This is a template for <span style={italic}>Furthermore</span> microsites and landing pages.</p>
+      <div>
+        <h1>Home</h1>
       </div>
-    );
+    )
   }
 }
-
-export default App;
+export default App
