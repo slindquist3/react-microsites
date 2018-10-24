@@ -38,7 +38,7 @@ You may create subdirectories inside `src`. For faster rebuilds, only files insi
 Only files inside `public` can be used from `public/index.html`.<br>
 
 ## Fonts and styling
-All styling files can use the .scss file extension. When building, webpack will preprocess those files into regular CSS.
+All styling files can use the .scss file extension. When building, webpack will preprocess those files into regular CSS.<br>
 Brown, our brand font, has been imported. As our brand guide develops, this repository can be updated to match our default styling.
 
 ## React Router
