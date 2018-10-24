@@ -1,13 +1,13 @@
 
 ## Overview
 
-This repository is for the quick deployment of Furthermore microsites and landing pages for our brand partnerships.
+This repository is intended for the quick deployment of Furthermore microsites and landing pages for our brand partnerships.
 
 It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and has since been ejected from Create React App to use SCSS.
 
 For help with React, please consult the Create React App docs.
 
-You need to **put any JS and CSS files inside `src`**, otherwise Webpack won’t see them.
+You need to **put or import any JS and CSS files inside `src`**, otherwise Webpack won’t see them.
 
 ## Available Scripts
 In the project directory, you can run:
