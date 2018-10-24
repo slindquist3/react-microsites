@@ -22,8 +22,8 @@ const routing = (
         </li>
       </ul>
       <Route exact path="/" component={App} />
-      <Route path="/view1" component={View2} />
-      <Route path="/view2" component={View1} />
+      <Route path="/view1" component={View1} />
+      <Route path="/view2" component={View2} />
     </nav>
   </Router>
 );
