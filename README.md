@@ -3,17 +3,20 @@
 
 This repository is intended for quick deployment of Furthermore microsites and landing pages for our brand partnerships.
 
-It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and has since been ejected from Create React App updates in order to integrate SCSS.
+It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and has since been ejected from Create React App updates in order to use SCSS.
 
 For help with React, please consult the Create React App docs.
 
 Below you will find some information on how to perform common tasks.
 
+## SCSS
+All styling files can use the .scss file extension. When building, webpack will preprocess those files into regular CSS.
+
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -22,7 +25,7 @@ The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
 
-### `npm run build`
+#### `npm run build`
 
 Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -44,6 +47,3 @@ Only files inside `public` can be used from `public/index.html`.<br>
 Read instructions below for using assets from JavaScript and HTML.
 
 You can, however, create more top-level directories.<br>
-They will not be included in the production build so you can use them for things like documentation.
-
-If you have Git installed and your project is not part of a larger repository, then a new repository will be initialized resulting in an additional `.git/` top-level directory.
