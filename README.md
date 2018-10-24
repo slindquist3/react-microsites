@@ -1,7 +1,7 @@
 
 ## Overview
 
-This repository is intended for the quick deployment of Furthermore microsites and landing pages for our brand partnerships.
+This repository is for the quick deployment of Furthermore microsites and landing pages for our brand partnerships.
 
 It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and has since been ejected from Create React App to use SCSS.
 
