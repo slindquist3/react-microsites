@@ -18,7 +18,6 @@ Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
 #### `npm run build`
 
@@ -26,7 +25,6 @@ Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
 For the project to build, **these files must exist with exact filenames**:
 
@@ -45,3 +43,5 @@ Brown, our brand font, has been imported. As our brand guide develops, this repo
 
 ## React Router
 For easy client-side routing, React Router has been added to this project and is wrapping the main app component. If your page doesn't require any navigation, you can edit the index.js file to remove the Router.
+
+For more information about React Router, visit the [documentation](https://github.com/ReactTraining/react-router).
