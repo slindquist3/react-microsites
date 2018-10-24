@@ -7,8 +7,6 @@ It was bootstrapped with [Create React App](https://github.com/facebook/create-r
 
 For help with React, please consult the Create React App docs.
 
-You need to **put or import any JS and CSS files inside `src`**, otherwise Webpack won’t see them.
-
 ## Available Scripts
 In the project directory, you can run:
 
@@ -23,6 +21,8 @@ The page will reload if you make edits.<br>
 
 Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
+
+You need to **put or import any JS and CSS files inside `src`**, otherwise Webpack won’t see them.
 
 The build is minified and the filenames include the hashes.<br>
 
